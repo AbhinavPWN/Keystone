@@ -124,7 +124,7 @@ coverage
 .env
 .env.docker
 .env.example
-.docker-compose.yml
+docker-compose.yml
 license.txt
 exports
 .strapi
