@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_meta_slug_aliases",
+  "info": {
+    "displayName": "slugAlias"
+  },
+  "options": {},
+  "attributes": {
+    "alias": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}
